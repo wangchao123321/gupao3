@@ -75,8 +75,8 @@
       <file leaf-file-name="Proxy.java" pinned="false" current-in-tab="true">
         <entry file="jar://D:/develope/jdk1.8/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="414" column="0" lean-forward="true" selection-start-line="414" selection-start-column="0" selection-end-line="414" selection-end-column="0" />
+            <state relative-caret-position="178">
+              <caret line="405" column="7" lean-forward="true" selection-start-line="405" selection-start-column="7" selection-end-line="405" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -386,15 +386,16 @@
       <option name="presentableId" value="Default" />
       <updated>1552554501145</updated>
       <workItem from="1552554503979" duration="1377000" />
-      <workItem from="1552555892484" duration="162000" />
+      <workItem from="1552555892484" duration="1007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1539000" />
+    <option name="totallyTimeSpent" value="2384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -586,8 +587,8 @@
     </entry>
     <entry file="jar://D:/develope/jdk1.8/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="414" column="0" lean-forward="true" selection-start-line="414" selection-start-column="0" selection-end-line="414" selection-end-column="0" />
+        <state relative-caret-position="178">
+          <caret line="405" column="7" lean-forward="true" selection-start-line="405" selection-start-column="7" selection-end-line="405" selection-end-column="7" />
           <folding />
         </state>
       </provider>
