@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/pattern/adaptee-pattern/adaptee-pattern.iml" filepath="$PROJECT_DIR$/pattern/adaptee-pattern/adaptee-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gupao3期.iml" filepath="$PROJECT_DIR$/.idea/gupao3期.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/observer-pattern/observer-pattern.iml" filepath="$PROJECT_DIR$/pattern/observer-pattern/observer-pattern.iml" />
     </modules>
   </component>
 </project>
